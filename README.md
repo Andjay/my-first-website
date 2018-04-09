@@ -5,4 +5,4 @@
 2. Stream two
 3. Stream three 
 
-### Each of this streams contains list of used software.
+### Each of these streams contains list of used software.
